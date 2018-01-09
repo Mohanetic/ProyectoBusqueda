@@ -35,7 +35,7 @@
         </ul>
         <form class="form-inline my-2 my-lg-0" method="POST" action="index.php">
 
-          <input name="Buscador" class="form-control mr-sm-2 lolo" type="search" placeholder="Guat ar u lukin 4?" aria-label="Search">
+          <input name="Buscador" class="form-control mr-sm-2" type="search" placeholder="Guat ar u lukin 4?" aria-label="Search">
           <input name="Buscar" type="submit" class="btn btn-outline-success my-2 my-sm-0" value="Buscar">
 
         </form>
