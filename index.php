@@ -4,7 +4,7 @@
 
 <html lang="en" >
   <head>
-    <title>SoloTodoTodo</title>
+    <title>NombrePagina</title>
     
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css'>
     
@@ -16,7 +16,7 @@
   <body>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">SoloTodoTodo</a>
+      <a class="navbar-brand" href="#">NombrePagina</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -27,15 +27,15 @@
             <a class="nav-link" href="#">Principal <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Alguna wea</a>
+            <a class="nav-link" href="#">Opcion1</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Mas weas</a>
+            <a class="nav-link" href="#">Opcion2</a>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0" method="POST" action="index.php">
 
-          <input name="Buscador" class="form-control mr-sm-2" type="search" placeholder="Guat ar u lukin 4?" aria-label="Search">
+          <input name="Buscador" class="form-control mr-sm-2 lolo" type="search" placeholder="Qué estás buscando?" aria-label="Search">
           <input name="Buscar" type="submit" class="btn btn-outline-success my-2 my-sm-0" value="Buscar">
 
         </form>
